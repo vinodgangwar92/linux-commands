@@ -1,0 +1,10 @@
+pwd - shows current directory
+ls - lists files and folders
+cd - changes directory
+mkdir - creates folder
+touch - creates file
+cat - displays file content
+chmod - changes permissions
+ps aux - shows running processes
+df -h - shows disk usage
+free -m - shows memory usage
