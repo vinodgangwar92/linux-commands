@@ -21,3 +21,15 @@ cat file.txt
 cp file.txt backup.txt
 mv backup.txt old-backup.txt
 rm old-backup.txt
+chmod 755 script.sh
+chown user:user file.txt
+ps aux
+top
+kill <process_id>
+df -h
+free -m
+du -sh *
+ping google.com
+ip addr
+netstat -tulnp
+curl http://localhost
